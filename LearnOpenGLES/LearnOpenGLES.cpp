@@ -57,7 +57,7 @@ GLuint load_texture(const char* file_name)
 	fread(&height, 4, 1, pFile);
 	fseek(pFile, BMP_Header_Length, SEEK_SET);
 
-	//计算每行想租所占字节数，并根据此数据计算总像素字节数
+	//计算每行像素所占字节数，并根据此数据计算总像素字节数
 	{
 		GLint line_bytes = width * 3;
 		while (line_bytes % 4 != 0)
