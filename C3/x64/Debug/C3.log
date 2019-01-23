@@ -1,0 +1,6 @@
+﻿  C3.cpp
+f:\cjiaproject\learnopengles\c3\c3.cpp(13): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\cjiaproject\learnopengles\c3\c3.cpp(18): warning C4305: “参数”: 从“double”到“GLfloat”截断
+f:\cjiaproject\learnopengles\c3\c3.cpp(26): warning C4305: “初始化”: 从“double”到“float”截断
+f:\cjiaproject\learnopengles\c3\c3.cpp(33): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+  C3.vcxproj -> F:\CJiaproject\LearnOpenGLES\x64\Debug\C3.exe
