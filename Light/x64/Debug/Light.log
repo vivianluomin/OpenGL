@@ -1,0 +1,3 @@
+﻿  Light.cpp
+f:\cjiaproject\learnopengles\light\light.cpp(11): warning C4305: “参数”: 从“double”到“GLclampf”截断
+  Light.vcxproj -> F:\CJiaproject\LearnOpenGLES\x64\Debug\Light.exe
